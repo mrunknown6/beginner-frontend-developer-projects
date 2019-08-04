@@ -1,4 +1,3 @@
 # beginner-frontend-developer-projects
-A beginner frontend developer's projects.
-Project one.
+Project one.\n
 These projects are for testing purposes, to practice and gain skills by recreating slightly altered versions of online templates.
